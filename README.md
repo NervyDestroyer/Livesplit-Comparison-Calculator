@@ -4,3 +4,5 @@ You specify the time of each split, this tool gives you the running sum of time 
 See comp.txt for usage.
 
 Output will have the running full time for each split that you can enter directly into livesplit
+
+Run "python livesplit_comp_calc.py --help" for argument info
