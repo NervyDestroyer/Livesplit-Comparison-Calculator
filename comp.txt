@@ -1,0 +1,23 @@
+# This is a comment (prepend with '#')
+# Each line should have a time in the format 'minutes:seconds'
+
+# POA
+   5:10
+# Halo
+   10:25
+# TnR
+   6:30
+# SC
+   4:05
+# AotCR
+   5:30
+# 343
+   4:25
+# Library
+   12:50
+# TB
+   7:45
+# Keyes
+   2:50
+# Maw
+   6:55
